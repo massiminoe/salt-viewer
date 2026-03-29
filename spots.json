@@ -1,0 +1,3338 @@
+[
+  {
+    "lat": -38.282883,
+    "lng": 145.232583,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.276983,
+    "lng": 145.233617,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.27345,
+    "lng": 145.239567,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.265783,
+    "lng": 145.2474,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.28325,
+    "lng": 145.232383,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.277167,
+    "lng": 145.233417,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.27145,
+    "lng": 145.239567,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.256983,
+    "lng": 145.273483,
+    "spot": "Quail bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.256217,
+    "lng": 145.278883,
+    "spot": "Quail bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.256283,
+    "lng": 145.2848,
+    "spot": "Quail bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.361433,
+    "lng": 145.233217,
+    "spot": "Buoy 24",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.3601,
+    "lng": 145.233383,
+    "spot": "Buoy 24",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.360983,
+    "lng": 145.23045,
+    "spot": "Buoy 24",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.36,
+    "lng": 145.22745,
+    "spot": "Buoy 24",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.4188,
+    "lng": 145.238717,
+    "spot": "Buoy 15",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.411583,
+    "lng": 145.248817,
+    "spot": "Buoy 15",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.3862,
+    "lng": 145.24165,
+    "spot": "Hanns Inlet",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.368633,
+    "lng": 145.238817,
+    "spot": "Stony Point",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.363333,
+    "lng": 145.236483,
+    "spot": "Crib Point",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.354167,
+    "lng": 145.233133,
+    "spot": "BP",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.34445,
+    "lng": 145.233917,
+    "spot": "BP",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.258567,
+    "lng": 145.266933,
+    "spot": "Quail Bank shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.2581,
+    "lng": 145.268967,
+    "spot": "Quail Bank shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.25735,
+    "lng": 145.272183,
+    "spot": "Youbet",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.26515,
+    "lng": 145.277967,
+    "spot": "Eagle rock flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.259067,
+    "lng": 145.259433,
+    "spot": "Shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.259,
+    "lng": 145.259633,
+    "spot": "Shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.2765,
+    "lng": 145.2345,
+    "spot": "Shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.265783,
+    "lng": 145.24685,
+    "spot": "Tyabb bank",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.267267,
+    "lng": 145.24705,
+    "spot": "Tyabb bank",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.27295,
+    "lng": 145.24275,
+    "spot": "Tyabb bank",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.277217,
+    "lng": 145.28115,
+    "spot": "Top of the spit",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.2907,
+    "lng": 145.284317,
+    "spot": "Top of the Eastern channel ebb tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.277933,
+    "lng": 145.278767,
+    "spot": "The Fingers ebb tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.2761,
+    "lng": 145.27885,
+    "spot": "The Fingers ebb tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.3177,
+    "lng": 145.252733,
+    "spot": "Jangles",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.281567,
+    "lng": 145.271967,
+    "spot": "Charmers",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.3554,
+    "lng": 145.2608,
+    "spot": "Bottom of The Cut",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.351467,
+    "lng": 145.26105,
+    "spot": "Bottom of The Cut",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.344,
+    "lng": 145.267967,
+    "spot": "Fairhaven lump",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.326533,
+    "lng": 145.271817,
+    "spot": "Top of Fairhaven",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.309533,
+    "lng": 145.2777,
+    "spot": "Red Bill lump",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Feb 2026"
+  },
+  {
+    "lat": -38.365567,
+    "lng": 145.222717,
+    "spot": "Tug channel",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.36925,
+    "lng": 145.224917,
+    "spot": "Tug channel",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.282883,
+    "lng": 145.232583,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.276983,
+    "lng": 145.233617,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.27345,
+    "lng": 145.239567,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.265783,
+    "lng": 145.2474,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.28325,
+    "lng": 145.232383,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.476017,
+    "lng": 145.402833,
+    "spot": "Reef Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.472067,
+    "lng": 145.399483,
+    "spot": "Reef Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.465817,
+    "lng": 145.3955,
+    "spot": "Reef Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.274117,
+    "lng": 145.31485,
+    "spot": "Barrallier Island ebb tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.284867,
+    "lng": 145.358433,
+    "spot": "Inside channel ebb tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.287283,
+    "lng": 145.353633,
+    "spot": "Inside channel ebb tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.308033,
+    "lng": 145.28145,
+    "spot": "Redbill",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.30805,
+    "lng": 145.280533,
+    "spot": "Redbill",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.332483,
+    "lng": 145.275733,
+    "spot": "Fairhaven",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.35825,
+    "lng": 145.269417,
+    "spot": "Fairhaven",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.342367,
+    "lng": 145.268467,
+    "spot": "Fairhaven",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.3695,
+    "lng": 145.270117,
+    "spot": "Tankerton flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.372717,
+    "lng": 145.268483,
+    "spot": "Tankerton flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.393783,
+    "lng": 145.266483,
+    "spot": "Tankerton flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.379633,
+    "lng": 145.270633,
+    "spot": "Tankerton flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.377033,
+    "lng": 145.269617,
+    "spot": "Tankerton flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.383367,
+    "lng": 145.267833,
+    "spot": "Tankerton shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.382183,
+    "lng": 145.2687,
+    "spot": "Tankerton shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.379367,
+    "lng": 145.2685,
+    "spot": "Tankerton shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.463633,
+    "lng": 145.374017,
+    "spot": "Leolia shoals",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.4631,
+    "lng": 145.3762,
+    "spot": "Leolia shoals",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.453867,
+    "lng": 145.374033,
+    "spot": "The corals",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.45105,
+    "lng": 145.3624,
+    "spot": "The corals",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "12 Mar 2026"
+  },
+  {
+    "lat": -38.326917,
+    "lng": 145.220417,
+    "spot": "Hasting Number 2",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.3391,
+    "lng": 145.22005,
+    "spot": "Sandstone",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.3505,
+    "lng": 145.22005,
+    "spot": "BP",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.35535,
+    "lng": 145.220583,
+    "spot": "Disney Street",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.368033,
+    "lng": 145.224633,
+    "spot": "Tug channel",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.36945,
+    "lng": 145.224967,
+    "spot": "Tug channel",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.3703,
+    "lng": 145.2257,
+    "spot": "Tug channel",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.382367,
+    "lng": 145.265983,
+    "spot": "Tankerton deep",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.381117,
+    "lng": 145.265933,
+    "spot": "Tankerton deep",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.374433,
+    "lng": 145.265067,
+    "spot": "Tankerton deep",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.362817,
+    "lng": 145.268183,
+    "spot": "Rocky",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.358733,
+    "lng": 145.268417,
+    "spot": "Chilcot",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.3574,
+    "lng": 145.268033,
+    "spot": "Chilcot",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.348733,
+    "lng": 145.272133,
+    "spot": "Chilcot",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.3426,
+    "lng": 145.268517,
+    "spot": "Fair haven",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.35155,
+    "lng": 145.260883,
+    "spot": "The cut lump",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.3462,
+    "lng": 145.26435,
+    "spot": "Little Duke",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.345867,
+    "lng": 145.263617,
+    "spot": "Duke nuke",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.333067,
+    "lng": 145.263317,
+    "spot": "Number 6",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.308033,
+    "lng": 145.28145,
+    "spot": "Redbill",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.30805,
+    "lng": 145.280533,
+    "spot": "Redbill",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.298,
+    "lng": 145.282017,
+    "spot": "Lamb chop",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.418833,
+    "lng": 145.160167,
+    "spot": "Somers Balnarring",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.4243,
+    "lng": 145.1511,
+    "spot": "Somers Balnarring",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.424067,
+    "lng": 145.1126,
+    "spot": "Somers Balnarring",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.411767,
+    "lng": 145.1608,
+    "spot": "Somers Balnarring",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.414383,
+    "lng": 145.159283,
+    "spot": "Somers Balnarring",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.412483,
+    "lng": 145.154567,
+    "spot": "Somers Balnarring",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.412183,
+    "lng": 145.154633,
+    "spot": "Somers Balnarring",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.41665,
+    "lng": 145.121983,
+    "spot": "Merricks",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.43355,
+    "lng": 145.070267,
+    "spot": "Point Leo",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.434,
+    "lng": 145.070233,
+    "spot": "Point Leo",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.437583,
+    "lng": 145.068867,
+    "spot": "Point Leo",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.430917,
+    "lng": 145.09735,
+    "spot": "Point Leo",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.279867,
+    "lng": 145.2597,
+    "spot": "Long Reef flood tide",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.277417,
+    "lng": 145.259517,
+    "spot": "Long Reef flood tide",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.270267,
+    "lng": 145.391983,
+    "spot": "Outside Lyalls ebb tide",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.275217,
+    "lng": 145.386267,
+    "spot": "Lyalls bank flood tide",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.277367,
+    "lng": 145.397917,
+    "spot": "Boultans ebb tide",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.312283,
+    "lng": 145.50185,
+    "spot": "Jam Jerrup channel - ebb tide has been the key here",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.36075,
+    "lng": 45.51255,
+    "spot": "Jam Jerrup channel - ebb tide has been the key here",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.329267,
+    "lng": 145.49325,
+    "spot": "Middle channel flood tide",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.369217,
+    "lng": 145.4974,
+    "spot": "The beans",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.379267,
+    "lng": 145.44125,
+    "spot": "Freemans point ebb tide",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.38815,
+    "lng": 145.471383,
+    "spot": "Tenby Bay",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.450417,
+    "lng": 145.400583,
+    "spot": "Coronet Bay",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.4455,
+    "lng": 145.27915,
+    "spot": "Silverleaves",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.445833,
+    "lng": 145.281783,
+    "spot": "Silverleaves",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "19 Feb 2026"
+  },
+  {
+    "lat": -38.282883,
+    "lng": 145.232583,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.276983,
+    "lng": 145.233617,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.27345,
+    "lng": 145.239567,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.265783,
+    "lng": 145.2474,
+    "spot": "Tyabb bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.256983,
+    "lng": 145.273483,
+    "spot": "Quail bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.256217,
+    "lng": 145.278883,
+    "spot": "Quail bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.256283,
+    "lng": 145.2848,
+    "spot": "Quail bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.329,
+    "lng": 145.2208,
+    "spot": "Sandstone Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.33765,
+    "lng": 145.22045,
+    "spot": "The X sub",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.340267,
+    "lng": 145.220617,
+    "spot": "The X sub",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.350433,
+    "lng": 145.2203,
+    "spot": "Crib Point",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.354883,
+    "lng": 145.220717,
+    "spot": "Disney Street",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.365567,
+    "lng": 145.222717,
+    "spot": "Tug channel",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.370817,
+    "lng": 145.226133,
+    "spot": "Tug channel",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.45545,
+    "lng": 145.192767,
+    "spot": "Ventnor",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.4551,
+    "lng": 145.192883,
+    "spot": "Ventnor",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.51225,
+    "lng": 145.368217,
+    "spot": "Newhaven",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.499283,
+    "lng": 145.376117,
+    "spot": "Newhaven",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.522967,
+    "lng": 145.349267,
+    "spot": "Newhaven",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.534083,
+    "lng": 145.34325,
+    "spot": "Newhaven",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.5341,
+    "lng": 145.352283,
+    "spot": "Newhaven",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.537717,
+    "lng": 145.346083,
+    "spot": "Newhaven",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.53655,
+    "lng": 145.3499,
+    "spot": "Newhaven",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.529,
+    "lng": 145.357167,
+    "spot": "S38 31769 E145 21 354",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.476017,
+    "lng": 145.402833,
+    "spot": "Reef Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.472067,
+    "lng": 145.399483,
+    "spot": "Reef Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.465817,
+    "lng": 145.3955,
+    "spot": "Reef Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.262833,
+    "lng": 145.391767,
+    "spot": "Lyalls",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.2505,
+    "lng": 145.401017,
+    "spot": "Lyalls",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.26815,
+    "lng": 145.335433,
+    "spot": "Browns Reserve",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.269233,
+    "lng": 145.349933,
+    "spot": "Browns Reserve",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.281817,
+    "lng": 145.36075,
+    "spot": "East of Joes",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.28065,
+    "lng": 145.364817,
+    "spot": "East of Joes",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.27435,
+    "lng": 145.357083,
+    "spot": "Joes Island",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.27315,
+    "lng": 145.3541,
+    "spot": "Joes Island",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.39965,
+    "lng": 145.26455,
+    "spot": "Tortoise Head",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.382733,
+    "lng": 145.26825,
+    "spot": "Tankerton",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.3744,
+    "lng": 145.26505,
+    "spot": "Tankerton",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.354533,
+    "lng": 145.270483,
+    "spot": "Chilcott",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.34715,
+    "lng": 145.2683,
+    "spot": "The Wiggles",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.348417,
+    "lng": 145.258433,
+    "spot": "The bottom of The Cut",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.2761,
+    "lng": 145.27885,
+    "spot": "Top of The Spit",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.394933,
+    "lng": 145.235817,
+    "spot": "Hanns Inlet",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.391567,
+    "lng": 145.234817,
+    "spot": "Hanns Inlet",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.3905,
+    "lng": 145.239033,
+    "spot": "Hanns Inlet",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.4202,
+    "lng": 145.273667,
+    "spot": "Tortiose bank",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.42165,
+    "lng": 145.272217,
+    "spot": "Tortiose bank",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.41825,
+    "lng": 145.275867,
+    "spot": "Tortiose bank",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.3403,
+    "lng": 145.220517,
+    "spot": "Ex sub",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.333483,
+    "lng": 145.221167,
+    "spot": "Sandstone Island",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.328683,
+    "lng": 145.22285,
+    "spot": "Out the front",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "20 Mar 2026"
+  },
+  {
+    "lat": -38.371183,
+    "lng": 145.225917,
+    "spot": "The tug channel has been good with a few cuttlefish too.",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.369833,
+    "lng": 145.22715,
+    "spot": "The tug channel has been good with a few cuttlefish too.",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.3687,
+    "lng": 145.22515,
+    "spot": "The tug channel has been good with a few cuttlefish too.",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.256983,
+    "lng": 145.273483,
+    "spot": "Quail bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.256217,
+    "lng": 145.278883,
+    "spot": "Quail bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.256283,
+    "lng": 145.2848,
+    "spot": "Quail bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.25765,
+    "lng": 145.278067,
+    "spot": "Quail bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.257733,
+    "lng": 145.28315,
+    "spot": "Quail bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.306267,
+    "lng": 145.254783,
+    "spot": "Sunken Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.294567,
+    "lng": 145.261217,
+    "spot": "Sunken Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.293733,
+    "lng": 145.264517,
+    "spot": "Sunken Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.329,
+    "lng": 145.2208,
+    "spot": "Sandstone Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.333367,
+    "lng": 145.221183,
+    "spot": "Sandstone Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.32445,
+    "lng": 145.222933,
+    "spot": "Sandstone Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.326667,
+    "lng": 145.22055,
+    "spot": "Sandstone Island",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.33765,
+    "lng": 145.22045,
+    "spot": "The X sub",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.340267,
+    "lng": 145.220617,
+    "spot": "The X sub",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.258567,
+    "lng": 145.269683,
+    "spot": "Quail Bank shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.258067,
+    "lng": 145.270883,
+    "spot": "Quail Bank shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.259067,
+    "lng": 145.259433,
+    "spot": "Tyabb bank shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.259,
+    "lng": 145.259633,
+    "spot": "Tyabb bank shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.258783,
+    "lng": 145.25735,
+    "spot": "Tyabb bank shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.357067,
+    "lng": 145.268183,
+    "spot": "Chillcot",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.35625,
+    "lng": 145.26795,
+    "spot": "Chillcot",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.309467,
+    "lng": 145.2811,
+    "spot": "Red Bill shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.310617,
+    "lng": 145.28045,
+    "spot": "Red Bill shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.423517,
+    "lng": 145.275833,
+    "spot": "Tortoise Head bank",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.420233,
+    "lng": 145.2737,
+    "spot": "Tortoise Head bank",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.417383,
+    "lng": 145.274,
+    "spot": "Tortoise Head bank",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.423133,
+    "lng": 145.277067,
+    "spot": "Tortoise Head bank",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.4217,
+    "lng": 145.273167,
+    "spot": "Tortoise Head bank",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "27 Mar 2026"
+  },
+  {
+    "lat": -38.447933,
+    "lng": 145.212017,
+    "spot": "Merdina Road",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.450467,
+    "lng": 145.2022,
+    "spot": "Red Rocks point",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.450133,
+    "lng": 145.203167,
+    "spot": "Penguin Rock bay",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.45545,
+    "lng": 145.192767,
+    "spot": "Ventnor",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.4551,
+    "lng": 145.192883,
+    "spot": "Ventnor",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.459883,
+    "lng": 145.17775,
+    "spot": "Ventnor",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.471667,
+    "lng": 145.157683,
+    "spot": "Hen and chickens",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.46965,
+    "lng": 145.158967,
+    "spot": "Hen and chickens",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.46975,
+    "lng": 145.1607,
+    "spot": "Hen and chickens",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.500433,
+    "lng": 145.143583,
+    "spot": "Cat Bay",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.5031,
+    "lng": 145.142333,
+    "spot": "Cat Bay",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.504467,
+    "lng": 145.141217,
+    "spot": "Cat Bay",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.50365,
+    "lng": 145.14495,
+    "spot": "Cat Bay",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.50255,
+    "lng": 145.142633,
+    "spot": "Cat Bay",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.4188,
+    "lng": 145.238717,
+    "spot": "Buoy 15",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.411583,
+    "lng": 145.248817,
+    "spot": "Buoy 15",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.399517,
+    "lng": 145.242167,
+    "spot": "Sandy Point",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.408117,
+    "lng": 145.2397,
+    "spot": "Sandy Point",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.3862,
+    "lng": 145.24165,
+    "spot": "Hanns Inlet",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.368633,
+    "lng": 145.238817,
+    "spot": "Stony Point",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.363333,
+    "lng": 145.236483,
+    "spot": "Crib Point",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.3601,
+    "lng": 145.233383,
+    "spot": "Bouy 24",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.360983,
+    "lng": 145.23045,
+    "spot": "Bouy 24",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.36,
+    "lng": 145.22745,
+    "spot": "Bouy 24",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.354167,
+    "lng": 145.233133,
+    "spot": "BP",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.34445,
+    "lng": 145.233917,
+    "spot": "BP",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.3819,
+    "lng": 145.463367,
+    "spot": "Tenby Point",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.381467,
+    "lng": 145.467217,
+    "spot": "Tenby Point",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.395467,
+    "lng": 145.393417,
+    "spot": "Barge landing point ebb tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.420433,
+    "lng": 145.370167,
+    "spot": "Elizabeth Island",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.431267,
+    "lng": 145.3641,
+    "spot": "Elizabeth Island",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.406533,
+    "lng": 145.427767,
+    "spot": "Corinella",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.402883,
+    "lng": 145.414583,
+    "spot": "Corinella",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.396133,
+    "lng": 145.427783,
+    "spot": "Corinella",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.248383,
+    "lng": 145.372267,
+    "spot": "Irish Jacks",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.258317,
+    "lng": 145.381567,
+    "spot": "Cockyanes",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.244733,
+    "lng": 145.397333,
+    "spot": "Cockyanes",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.278283,
+    "lng": 145.328283,
+    "spot": "The post office",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.279717,
+    "lng": 145.412133,
+    "spot": "Horse shoe channel",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.279183,
+    "lng": 145.424933,
+    "spot": "Horse shoe channel",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.280717,
+    "lng": 145.434317,
+    "spot": "Horse shoe channel",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.28865,
+    "lng": 145.367117,
+    "spot": "Inside channel",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.284983,
+    "lng": 145.358567,
+    "spot": "Inside channel",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.291717,
+    "lng": 145.36715,
+    "spot": "Inside channel",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.309467,
+    "lng": 145.2811,
+    "spot": "Redbill shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.310617,
+    "lng": 145.28045,
+    "spot": "Redbill shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.35665,
+    "lng": 145.27025,
+    "spot": "Fairhaven shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.332483,
+    "lng": 145.275733,
+    "spot": "Fairhaven standard",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.35825,
+    "lng": 145.269417,
+    "spot": "Fairhaven standard",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.312,
+    "lng": 145.2714,
+    "spot": "Navro",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.350567,
+    "lng": 145.258433,
+    "spot": "South cut flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.3695,
+    "lng": 145.270117,
+    "spot": "Tankerton flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.372717,
+    "lng": 145.268483,
+    "spot": "Tankerton flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.393783,
+    "lng": 145.266483,
+    "spot": "Tankerton flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.367767,
+    "lng": 145.270433,
+    "spot": "Tankerton flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.381133,
+    "lng": 145.265983,
+    "spot": "Tankerton flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.379083,
+    "lng": 145.26705,
+    "spot": "Tankerton flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.3735,
+    "lng": 145.258783,
+    "spot": "South spit pin",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "28 Feb 2026"
+  },
+  {
+    "lat": -38.190617,
+    "lng": 145.0671,
+    "spot": "Sunny Side",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.194183,
+    "lng": 145.065683,
+    "spot": "Sunny Side",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.198617,
+    "lng": 145.060733,
+    "spot": "Sunny Side",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.206883,
+    "lng": 145.048517,
+    "spot": "Kalimna Drive",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.209117,
+    "lng": 145.0475,
+    "spot": "Kalimna Drive",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.2145,
+    "lng": 145.031567,
+    "spot": "Schnapper Point",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.21735,
+    "lng": 145.032267,
+    "spot": "Schnapper Point",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.223233,
+    "lng": 145.029,
+    "spot": "Fisheries Point",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.223533,
+    "lng": 145.026033,
+    "spot": "Fisheries Point",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.244783,
+    "lng": 145.023783,
+    "spot": "Mt Martha",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.241533,
+    "lng": 145.026483,
+    "spot": "Mt Martha",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.245083,
+    "lng": 145.026567,
+    "spot": "Mt Martha",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.363133,
+    "lng": 144.807267,
+    "spot": "White Cliffs",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.362883,
+    "lng": 144.808567,
+    "spot": "White Cliffs",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.3584,
+    "lng": 144.7834,
+    "spot": "Blairgowrie",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.358667,
+    "lng": 144.785417,
+    "spot": "Blairgowrie",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.319733,
+    "lng": 144.7751,
+    "spot": "Blairgowrie",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.3424,
+    "lng": 144.78105,
+    "spot": "Blairgowrie",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.336017,
+    "lng": 144.7702,
+    "spot": "Blairgowrie",
+    "fish": "Calamari",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.216567,
+    "lng": 145.031833,
+    "spot": "Mornington",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.237483,
+    "lng": 145.023817,
+    "spot": "Fossil beach",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.242867,
+    "lng": 145.022983,
+    "spot": "Fossil beach",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.251633,
+    "lng": 145.021267,
+    "spot": "Fossil beach",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.28125,
+    "lng": 144.991767,
+    "spot": "Mt Martha",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.287417,
+    "lng": 144.988817,
+    "spot": "Mt Martha",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.219683,
+    "lng": 144.711717,
+    "spot": "Coles channel",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.221567,
+    "lng": 144.7122,
+    "spot": "Coles channel",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.216983,
+    "lng": 144.707033,
+    "spot": "Coles channel",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.221717,
+    "lng": 144.712183,
+    "spot": "Coles channel",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.218667,
+    "lng": 144.725467,
+    "spot": "The Narrows",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.2192,
+    "lng": 144.726833,
+    "spot": "The Narrows",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.219283,
+    "lng": 144.724967,
+    "spot": "The Narrows",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.219617,
+    "lng": 144.727083,
+    "spot": "The Narrows",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.18745,
+    "lng": 144.731233,
+    "spot": "St Leonards",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.188417,
+    "lng": 144.73505,
+    "spot": "St Leonards",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.191467,
+    "lng": 144.728367,
+    "spot": "St Leonards",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.197767,
+    "lng": 144.7258,
+    "spot": "St Leonards",
+    "fish": "Whiting",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.321333,
+    "lng": 144.803733,
+    "spot": "Rye channel",
+    "fish": "Gummy Shark",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.324183,
+    "lng": 144.803967,
+    "spot": "Rye channel",
+    "fish": "Gummy Shark",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.3357,
+    "lng": 144.81375,
+    "spot": "Rye channel",
+    "fish": "Gummy Shark",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.3303,
+    "lng": 144.82405,
+    "spot": "Rye channel",
+    "fish": "Gummy Shark",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.323583,
+    "lng": 144.813683,
+    "spot": "Rye",
+    "fish": "Gummy Shark",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.320567,
+    "lng": 144.80135,
+    "spot": "Rye",
+    "fish": "Gummy Shark",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.334817,
+    "lng": 144.886517,
+    "spot": "Rosebud",
+    "fish": "Gummy Shark",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.3406,
+    "lng": 144.8724,
+    "spot": "Rosebud",
+    "fish": "Gummy Shark",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.333933,
+    "lng": 144.866017,
+    "spot": "Rosebud",
+    "fish": "Gummy Shark",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.340983,
+    "lng": 144.8716,
+    "spot": "Wreck of the Hurricane (Ebb tide)",
+    "fish": "Gummy Shark",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.299033,
+    "lng": 144.611833,
+    "spot": "Back of Point Lonsdale",
+    "fish": "Kingfish",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.299383,
+    "lng": 144.596733,
+    "spot": "Back of Point Lonsdale",
+    "fish": "Kingfish",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.288633,
+    "lng": 144.569683,
+    "spot": "Back of Point Lonsdale",
+    "fish": "Kingfish",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.29525,
+    "lng": 144.604833,
+    "spot": "Back of Point Lonsdale",
+    "fish": "Kingfish",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.299567,
+    "lng": 144.608433,
+    "spot": "Back of Point Lonsdale",
+    "fish": "Kingfish",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.296933,
+    "lng": 144.59455,
+    "spot": "Back of Point Lonsdale",
+    "fish": "Kingfish",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.289083,
+    "lng": 144.57595,
+    "spot": "Colindina reef",
+    "fish": "Kingfish",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.288033,
+    "lng": 144.5683,
+    "spot": "Colindina reef",
+    "fish": "Kingfish",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.302167,
+    "lng": 144.48425,
+    "spot": "Charlemont reef",
+    "fish": "Kingfish",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.29885,
+    "lng": 144.477833,
+    "spot": "Charlemont reef",
+    "fish": "Kingfish",
+    "region": "Port Phillip Bay",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.2585,
+    "lng": 145.304583,
+    "spot": "The Warneet entrance flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.257967,
+    "lng": 145.299417,
+    "spot": "The Warneet entrance flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.258567,
+    "lng": 145.269683,
+    "spot": "Quail Bank shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.258067,
+    "lng": 145.270883,
+    "spot": "Quail Bank shallow",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.25735,
+    "lng": 145.272183,
+    "spot": "Youbet",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.255067,
+    "lng": 145.27865,
+    "spot": "Bangers and mash",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.259317,
+    "lng": 145.264267,
+    "spot": "Bangers and mash",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.291417,
+    "lng": 145.265117,
+    "spot": "Sting Ray Alley ebb tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.30415,
+    "lng": 145.258767,
+    "spot": "Sting Ray Alley ebb tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.33155,
+    "lng": 145.2551,
+    "spot": "Marvals flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.32945,
+    "lng": 145.254833,
+    "spot": "Marvals flood tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.405517,
+    "lng": 145.293417,
+    "spot": "Blakes channel ebb tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.414667,
+    "lng": 145.3061,
+    "spot": "Gardeners ebb tide",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.4202,
+    "lng": 145.273667,
+    "spot": "Marshall",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.421617,
+    "lng": 145.271983,
+    "spot": "Lame Bob",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.424883,
+    "lng": 145.294333,
+    "spot": "Slim Beauty",
+    "fish": "Whiting",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.46115,
+    "lng": 145.092933,
+    "spot": "Shoreham",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.424933,
+    "lng": 145.090317,
+    "spot": "Point Leo",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.426283,
+    "lng": 145.090483,
+    "spot": "Point Leo",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.438867,
+    "lng": 145.120967,
+    "spot": "Spring Valley",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.411467,
+    "lng": 145.1135,
+    "spot": "Balnarring",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.414233,
+    "lng": 145.136817,
+    "spot": "Balnarring",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.466683,
+    "lng": 145.149217,
+    "spot": "Hen and Chickens gutter flood tide",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.464267,
+    "lng": 145.139517,
+    "spot": "The Chapel",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.470817,
+    "lng": 145.132517,
+    "spot": "Buoy 6",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.48365,
+    "lng": 145.116333,
+    "spot": "Buoy 2",
+    "fish": "Gummy Shark",
+    "region": "Western Port",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.562967,
+    "lng": 144.92765,
+    "spot": "Sweden",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.518,
+    "lng": 144.9188,
+    "spot": "Picnic Point",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.506183,
+    "lng": 144.9204,
+    "spot": "Picnic Point",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.503433,
+    "lng": 144.95285,
+    "spot": "Picnic Point",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.52845,
+    "lng": 144.956783,
+    "spot": "Cairns Bay",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.52745,
+    "lng": 144.966683,
+    "spot": "Cairns Bay",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.5126,
+    "lng": 145.023867,
+    "spot": "Flinders Golf Course",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.522333,
+    "lng": 145.005367,
+    "spot": "Flinders Golf Course",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.511233,
+    "lng": 145.02395,
+    "spot": "West Head",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.521333,
+    "lng": 144.984067,
+    "spot": "Flinders",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.5034,
+    "lng": 145.064283,
+    "spot": "Flinders lump",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.547267,
+    "lng": 145.035067,
+    "spot": "Flinders bank",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.5301,
+    "lng": 145.126983,
+    "spot": "Grant Hill",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.541433,
+    "lng": 145.21225,
+    "spot": "Pyramid",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.538483,
+    "lng": 145.235467,
+    "spot": "Pyramid",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.573483,
+    "lng": 145.33715,
+    "spot": "Woolamai Pin",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.570217,
+    "lng": 145.317133,
+    "spot": "Cape Woolamai",
+    "fish": "Gummy Shark",
+    "region": "Offshore",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.7031,
+    "lng": 146.466033,
+    "spot": "Fishermans wharf",
+    "fish": "Gummy Shark",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.882633,
+    "lng": 146.487717,
+    "spot": "The Mile Point",
+    "fish": "Gummy Shark",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.91345,
+    "lng": 146.48755,
+    "spot": "Little Rabbit gutter",
+    "fish": "Gummy Shark",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.904233,
+    "lng": 146.6465,
+    "spot": "White Rock",
+    "fish": "Kingfish",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.907417,
+    "lng": 146.646067,
+    "spot": "White Rock",
+    "fish": "Kingfish",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.92115,
+    "lng": 146.65865,
+    "spot": "Seal Island",
+    "fish": "Kingfish",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.924683,
+    "lng": 146.654983,
+    "spot": "Seal Island",
+    "fish": "Kingfish",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.9258,
+    "lng": 146.65795,
+    "spot": "Seal Island",
+    "fish": "Kingfish",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.928167,
+    "lng": 146.65905,
+    "spot": "Seal Island",
+    "fish": "Kingfish",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.948067,
+    "lng": 146.70425,
+    "spot": "Cliffy",
+    "fish": "Kingfish",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.911467,
+    "lng": 146.602667,
+    "spot": "Ovals",
+    "fish": "Gummy Shark",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.937217,
+    "lng": 146.64565,
+    "spot": "Seal Island",
+    "fish": "Gummy Shark",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.937217,
+    "lng": 146.64565,
+    "spot": "Notch Island",
+    "fish": "Gummy Shark",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.955633,
+    "lng": 146.66545,
+    "spot": "Rag Island",
+    "fish": "Gummy Shark",
+    "region": "Welshpool",
+    "week": "5 Feb 2026"
+  },
+  {
+    "lat": -38.324533,
+    "lng": 145.2751,
+    "spot": "Fairhaven",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.32455,
+    "lng": 145.276833,
+    "spot": "Fairhaven",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.343417,
+    "lng": 145.277083,
+    "spot": "Fairhaven",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.37275,
+    "lng": 145.2713,
+    "spot": "Tankerton",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.388833,
+    "lng": 145.26715,
+    "spot": "Tankerton",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.409117,
+    "lng": 145.267233,
+    "spot": "S38 24 85 E145 16 018",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.448383,
+    "lng": 145.219883,
+    "spot": "Cowes Ramp",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.447933,
+    "lng": 145.212017,
+    "spot": "Merdina Road",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.450467,
+    "lng": 145.2022,
+    "spot": "Red Rocks Point",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.450133,
+    "lng": 145.203167,
+    "spot": "Penguin Rock Bay",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.45545,
+    "lng": 145.192767,
+    "spot": "Ventnor",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.4551,
+    "lng": 145.192883,
+    "spot": "Ventnor",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.459883,
+    "lng": 145.17775,
+    "spot": "Ventnor",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.471667,
+    "lng": 145.157683,
+    "spot": "Hen and Chickens",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.46965,
+    "lng": 145.158967,
+    "spot": "Hen and Chickens",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.46975,
+    "lng": 145.1607,
+    "spot": "Hen and Chickens",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.258567,
+    "lng": 145.269683,
+    "spot": "Quail Bank shallow",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.258067,
+    "lng": 145.270883,
+    "spot": "Quail Bank shallow",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.25735,
+    "lng": 145.272183,
+    "spot": "Youbet",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.255067,
+    "lng": 145.27865,
+    "spot": "Bangers and Mash",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.2581,
+    "lng": 145.268967,
+    "spot": "Bangers and Mash",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.249183,
+    "lng": 145.265567,
+    "spot": "Watsons Inlet flood tide",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.259067,
+    "lng": 145.259433,
+    "spot": "Tyabb Bank - shallow",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.259,
+    "lng": 145.259633,
+    "spot": "Tyabb Bank - shallow",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.261333,
+    "lng": 145.25505,
+    "spot": "Tyabb Bank - shallow",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.2765,
+    "lng": 145.2345,
+    "spot": "Tyabb Bank - shallow",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.309467,
+    "lng": 145.2811,
+    "spot": "Redbill shallow",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.310617,
+    "lng": 145.28045,
+    "spot": "Redbill shallow",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.35625,
+    "lng": 145.267967,
+    "spot": "Chillcot - little chilli",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.357283,
+    "lng": 145.268117,
+    "spot": "Chillcot - little chilli",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.357033,
+    "lng": 145.268183,
+    "spot": "Chillcot - little chilli",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.423517,
+    "lng": 145.275833,
+    "spot": "Tortiose Head Bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.420233,
+    "lng": 145.2737,
+    "spot": "Tortiose Head Bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.417383,
+    "lng": 145.274,
+    "spot": "Tortiose Head Bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.423133,
+    "lng": 145.277067,
+    "spot": "Tortiose Head Bank",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.418833,
+    "lng": 145.160183,
+    "spot": "Somers",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.415233,
+    "lng": 145.157267,
+    "spot": "Somers",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.414533,
+    "lng": 145.185867,
+    "spot": "Somers",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.426967,
+    "lng": 145.1456,
+    "spot": "Balnarring",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.4162,
+    "lng": 145.143517,
+    "spot": "Balnarring",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.41625,
+    "lng": 145.102,
+    "spot": "Merricks",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.426983,
+    "lng": 145.085483,
+    "spot": "Point Leo",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  },
+  {
+    "lat": -38.43355,
+    "lng": 145.070267,
+    "spot": "Point Leo",
+    "fish": "Calamari",
+    "region": "Western Port",
+    "week": "6 Mar 2026"
+  }
+]

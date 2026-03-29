@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Salt Guide Viewer</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  #map { position: absolute; top: 0; left: 0; right: 0; bottom: 0; z-index: 0; }
+
+  #filters {
+    position: absolute; top: 12px; right: 12px; z-index: 1000;
+    background: white; border-radius: 8px; padding: 16px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+    max-height: calc(100vh - 24px); overflow-y: auto;
+    width: 220px; font-size: 13px;
+  }
+  #filters h2 { font-size: 15px; margin-bottom: 12px; }
+  .filter-group { margin-bottom: 12px; }
+  .filter-group h3 {
+    font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px;
+    color: #666; margin-bottom: 6px;
+  }
+  .filter-group label {
+    display: flex; align-items: center; gap: 6px;
+    padding: 2px 0; cursor: pointer;
+  }
+  .filter-group label:hover { color: #0066cc; }
+  .swatch {
+    display: inline-block; width: 10px; height: 10px; border-radius: 50%;
+  }
+  .count { color: #999; font-size: 12px; margin-top: 8px; }
+  .toggle-all {
+    font-size: 11px; color: #0066cc; cursor: pointer;
+    border: none; background: none; padding: 0; margin-bottom: 4px;
+  }
+  .toggle-all:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div id="filters">
+  <h2>Salt Guide Spots</h2>
+  <div class="filter-group" id="fish-filters">
+    <h3>Fish Type</h3>
+  </div>
+  <div class="filter-group" id="region-filters">
+    <h3>Region</h3>
+  </div>
+  <div class="filter-group" id="week-filters">
+    <h3>Week</h3>
+  </div>
+  <div class="count" id="count"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script>
+const FISH_COLORS = {
+  'Calamari': '#8b5cf6',
+  'Whiting': '#3b82f6',
+  'Gummy Shark': '#6b7280',
+  'Kingfish': '#22c55e',
+  'Cuttlefish': '#f59e0b',
+};
+
+const map = L.map('map').setView([-38.35, 145.1], 10);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
+  maxZoom: 19,
+}).addTo(map);
+
+const clusterGroup = L.markerClusterGroup({
+  maxClusterRadius: 35,
+  spiderfyOnMaxZoom: true,
+  showCoverageOnHover: false,
+});
+map.addLayer(clusterGroup);
+
+let allSpots = [];
+let markers = [];
+let activeFilters = { fish: new Set(), region: new Set(), week: new Set() };
+
+function parseWeekSort(w) {
+  const [day, mon, year] = w.split(' ');
+  const months = { Jan:0, Feb:1, Mar:2, Apr:3, May:4, Jun:5, Jul:6, Aug:7, Sep:8, Oct:9, Nov:10, Dec:11 };
+  return new Date(+year, months[mon], +day).getTime();
+}
+
+function buildFilters(spots) {
+  const fish = [...new Set(spots.map(s => s.fish))].sort();
+  const regions = [...new Set(spots.map(s => s.region))].sort();
+  const weeks = [...new Set(spots.map(s => s.week))].sort((a, b) => parseWeekSort(a) - parseWeekSort(b));
+
+  fish.forEach(f => activeFilters.fish.add(f));
+  regions.forEach(r => activeFilters.region.add(r));
+  weeks.forEach(w => activeFilters.week.add(w));
+
+  renderFilterGroup('fish-filters', fish, 'fish', f => {
+    const color = FISH_COLORS[f] || '#999';
+    return `<span class="swatch" style="background:${color}"></span>${f}`;
+  });
+  renderFilterGroup('region-filters', regions, 'region');
+  renderFilterGroup('week-filters', weeks, 'week');
+}
+
+function renderFilterGroup(containerId, values, key, labelFn) {
+  const container = document.getElementById(containerId);
+  const h3 = container.querySelector('h3');
+
+  const toggleBtn = document.createElement('button');
+  toggleBtn.className = 'toggle-all';
+  toggleBtn.textContent = 'deselect all';
+  toggleBtn.addEventListener('click', () => {
+    const allOn = values.every(v => activeFilters[key].has(v));
+    values.forEach(v => {
+      if (allOn) activeFilters[key].delete(v);
+      else activeFilters[key].add(v);
+    });
+    container.querySelectorAll('input').forEach(cb => cb.checked = !allOn);
+    toggleBtn.textContent = allOn ? 'select all' : 'deselect all';
+    applyFilters();
+  });
+  container.insertBefore(toggleBtn, h3.nextSibling);
+
+  values.forEach(v => {
+    const label = document.createElement('label');
+    const cb = document.createElement('input');
+    cb.type = 'checkbox';
+    cb.checked = true;
+    cb.addEventListener('change', () => {
+      if (cb.checked) activeFilters[key].add(v);
+      else activeFilters[key].delete(v);
+      const allOn = values.every(val => activeFilters[key].has(val));
+      toggleBtn.textContent = allOn ? 'deselect all' : 'select all';
+      applyFilters();
+    });
+    label.appendChild(cb);
+    label.insertAdjacentHTML('beforeend', labelFn ? labelFn(v) : v);
+    container.appendChild(label);
+  });
+}
+
+function applyFilters() {
+  clusterGroup.clearLayers();
+  let count = 0;
+  markers.forEach((m, i) => {
+    const s = allSpots[i];
+    if (activeFilters.fish.has(s.fish) && activeFilters.region.has(s.region) && activeFilters.week.has(s.week)) {
+      clusterGroup.addLayer(m);
+      count++;
+    }
+  });
+  document.getElementById('count').textContent = `${count} / ${allSpots.length} spots`;
+}
+
+fetch('spots.json')
+  .then(r => r.json())
+  .then(spots => {
+    allSpots = spots;
+    buildFilters(spots);
+
+    spots.forEach(s => {
+      const color = FISH_COLORS[s.fish] || '#999';
+      const marker = L.circleMarker([s.lat, s.lng], {
+        radius: 6, fillColor: color, color: '#fff',
+        weight: 1.5, opacity: 1, fillOpacity: 0.85,
+      });
+      marker.bindPopup(
+        `<strong>${s.spot}</strong><br>` +
+        `<span style="color:${color}">${s.fish}</span><br>` +
+        `${s.region} &middot; ${s.week}`
+      );
+      markers.push(marker);
+    });
+
+    applyFilters();
+  });
+</script>
+</body>
+</html>
