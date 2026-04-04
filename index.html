@@ -39,6 +39,20 @@
     border: none; background: none; padding: 0; margin-bottom: 4px;
   }
   .toggle-all:hover { text-decoration: underline; }
+
+  .layer-group { margin-bottom: 12px; }
+  .layer-group h3 {
+    font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px;
+    color: #666; margin-bottom: 6px;
+  }
+  .layer-group label {
+    display: flex; align-items: center; gap: 6px;
+    padding: 2px 0; cursor: pointer;
+  }
+  .layer-group label:hover { color: #0066cc; }
+  .layer-divider {
+    border: none; border-top: 1px solid #e5e5e5; margin: 12px 0;
+  }
 </style>
 </head>
 <body>
@@ -55,6 +69,14 @@
     <h3>Week</h3>
   </div>
   <div class="count" id="count"></div>
+  <hr class="layer-divider">
+  <div class="layer-group" id="layer-controls">
+    <h3>Map Layers</h3>
+    <label><input type="radio" name="basemap" value="street" checked> Street</label>
+    <label><input type="radio" name="basemap" value="ocean"> Ocean Contours</label>
+    <label><input type="radio" name="basemap" value="satellite"> Satellite</label>
+    <label style="margin-top:6px"><input type="checkbox" id="seamark-toggle"> Nautical Overlay</label>
+  </div>
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -69,10 +91,44 @@ const FISH_COLORS = {
 };
 
 const map = L.map('map').setView([-38.35, 145.1], 10);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
-  maxZoom: 19,
-}).addTo(map);
+
+const baseLayers = {
+  street: L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
+    maxZoom: 19,
+  }),
+  ocean: L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}', {
+    attribution: '&copy; <a href="https://www.esri.com/">Esri</a> &middot; GEBCO, NOAA, National Geographic',
+    maxZoom: 16,
+  }),
+  satellite: L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+    attribution: '&copy; <a href="https://www.esri.com/">Esri</a> &middot; Maxar, Earthstar Geographics',
+    maxZoom: 19,
+  }),
+};
+
+const seaMarkLayer = L.tileLayer('https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png', {
+  attribution: '&copy; <a href="https://www.openseamap.org/">OpenSeaMap</a>',
+  maxZoom: 18,
+  opacity: 0.8,
+});
+
+let activeBase = 'street';
+baseLayers.street.addTo(map);
+
+document.querySelectorAll('input[name="basemap"]').forEach(radio => {
+  radio.addEventListener('change', () => {
+    map.removeLayer(baseLayers[activeBase]);
+    activeBase = radio.value;
+    baseLayers[activeBase].addTo(map);
+    baseLayers[activeBase].bringToBack();
+  });
+});
+
+document.getElementById('seamark-toggle').addEventListener('change', function() {
+  if (this.checked) seaMarkLayer.addTo(map);
+  else map.removeLayer(seaMarkLayer);
+});
 
 const clusterGroup = L.markerClusterGroup({
   maxClusterRadius: 35,
